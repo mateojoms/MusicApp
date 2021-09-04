@@ -26,7 +26,7 @@ SECRET_KEY = 'xatewioethrn123vporv'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mateo.pythonanywhere.com']
 
 
 # Application definition
